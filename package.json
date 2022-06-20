@@ -12,6 +12,7 @@
   },
   "private": true,
   "dependencies": {
+    "@abskmj/cligen": "github:abskmj/cligen",
     "@angular-devkit/schematics": "^13.0.4",
     "@angular/animations": "^13.0.3",
     "@angular/cdk": "^13.0.3",
